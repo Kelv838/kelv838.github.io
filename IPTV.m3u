@@ -1,0 +1,22 @@
+#EXTM3U
+#EXTINF:-1, Sinovision
+https://cdnts.sinovision.net/livestream.m3u8
+#EXTINF:-1, SinoTV-NY
+http://38.64.72.148/hls/modn/list/4003/playlist.m3u8
+#EXTINF:-1, SinoTV-SF
+http://38.64.72.148/hls/modn/list/4001/playlist.m3u8
+#EXTINF:-1, SinoTV-LA
+http://38.64.72.148/hls/modn/list/4002/playlist.m3u8
+#EXTINF:-1, TVBS Asia 
+http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
+#EXTINF:-1, TTV News 
+http://38.64.72.148/hls/modn/list/4013/playlist.m3u8
+#EXTINF:-1, FTV News
+http://38.64.72.148/hls/modn/list/4012/playlist.m3u8
+#EXTINF:-1, CTS News
+http://stream.dsichannel.com/hls/cts-news.m3u8
+#EXTINF:-1, Sky Link TV 1
+https://live.mybtv.net/manifest/4f0f25b338c3293216e8b36b00f3248b08be929d/live-spotx/7abf0b97-6a1a-4f0a-b15b-3e80b7989f2c/0.m3u8
+#EXTINF:-1, Sky Link TV 2
+https://live.mybtv.net/manifest/4f0f25b338c3293216e8b36b00f3248b08be929d/live-spotx/86f21968-8899-4128-90a0-a56bc341084f/0.m3u8
+
